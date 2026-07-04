@@ -1,0 +1,9 @@
+{
+  "name": "the-vault",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Static release catalog with a Decap CMS admin panel, deployed on Netlify.",
+  "scripts": {
+    "build": "node scripts/build-items.js"
+  }
+}
